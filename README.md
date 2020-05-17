@@ -8,6 +8,6 @@ Boyer Moore algorithm was used with the search function.
 <img src="2.png"/>
 
 ## Performance of huge text files
-#### This figure explains how much time does it take while replaceing given words
+#### This figure explains how much time does it take while replacing given words with "find" word
 
 <img src="3.png"/>
